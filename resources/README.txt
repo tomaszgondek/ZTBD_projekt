@@ -1,0 +1,1 @@
+Tu dajcie pliki .csv i .db
